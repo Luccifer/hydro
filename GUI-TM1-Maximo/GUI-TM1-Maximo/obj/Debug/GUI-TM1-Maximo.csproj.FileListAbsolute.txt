@@ -1,0 +1,9 @@
+c:\users\eyerise\documents\visual studio 2015\Projects\GUI-TM1-Maximo\GUI-TM1-Maximo\bin\Debug\GUI-TM1-Maximo.exe.config
+c:\users\eyerise\documents\visual studio 2015\Projects\GUI-TM1-Maximo\GUI-TM1-Maximo\bin\Debug\GUI-TM1-Maximo.exe
+c:\users\eyerise\documents\visual studio 2015\Projects\GUI-TM1-Maximo\GUI-TM1-Maximo\bin\Debug\GUI-TM1-Maximo.pdb
+c:\users\eyerise\documents\visual studio 2015\Projects\GUI-TM1-Maximo\GUI-TM1-Maximo\obj\Debug\GUI_TM1_Maximo.Form1.resources
+c:\users\eyerise\documents\visual studio 2015\Projects\GUI-TM1-Maximo\GUI-TM1-Maximo\obj\Debug\GUI_TM1_Maximo.Properties.Resources.resources
+c:\users\eyerise\documents\visual studio 2015\Projects\GUI-TM1-Maximo\GUI-TM1-Maximo\obj\Debug\GUI-TM1-Maximo.csproj.GenerateResource.Cache
+c:\users\eyerise\documents\visual studio 2015\Projects\GUI-TM1-Maximo\GUI-TM1-Maximo\obj\Debug\GUI-TM1-Maximo.exe
+c:\users\eyerise\documents\visual studio 2015\Projects\GUI-TM1-Maximo\GUI-TM1-Maximo\obj\Debug\GUI-TM1-Maximo.pdb
+c:\users\eyerise\documents\visual studio 2015\Projects\GUI-TM1-Maximo\GUI-TM1-Maximo\obj\Debug\GUI-TM1-Maximo.csprojResolveAssemblyReference.cache

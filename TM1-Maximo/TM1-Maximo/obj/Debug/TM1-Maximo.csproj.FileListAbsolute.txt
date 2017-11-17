@@ -1,0 +1,7 @@
+c:\users\eyerise\documents\visual studio 2015\Projects\TM1-Maximo\TM1-Maximo\bin\Debug\TM1-Maximo.exe.config
+c:\users\eyerise\documents\visual studio 2015\Projects\TM1-Maximo\TM1-Maximo\bin\Debug\TM1-Maximo.exe
+c:\users\eyerise\documents\visual studio 2015\Projects\TM1-Maximo\TM1-Maximo\bin\Debug\TM1-Maximo.pdb
+c:\users\eyerise\documents\visual studio 2015\Projects\TM1-Maximo\TM1-Maximo\obj\Debug\TM1-Maximo.csprojResolveAssemblyReference.cache
+c:\users\eyerise\documents\visual studio 2015\Projects\TM1-Maximo\TM1-Maximo\obj\Debug\TM1-Maximo.exe
+c:\users\eyerise\documents\visual studio 2015\Projects\TM1-Maximo\TM1-Maximo\obj\Debug\TM1-Maximo.pdb
+c:\users\eyerise\documents\visual studio 2015\Projects\TM1-Maximo\TM1-Maximo\bin\Debug\CommandLine.dll
